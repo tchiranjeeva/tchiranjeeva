@@ -40,14 +40,19 @@ I enjoy turning real-world problems into **reliable, manufacturable hardware sol
 ---
 ## 🌍 Freelance Platforms
 
-[![Upwork](https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)]([https://www.upwork.com/](https://www.upwork.com/freelancers/~01f83d8e9380e55dab?mp_source=share))
-[![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)]([https://www.fiverr.com/](https://www.fiverr.com/s/yvQZevq))
-
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~01f83d8e9380e55dab?mp_source=share">
+    <img src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+  <a href="https://www.fiverr.com/s/yvQZevq">
+    <img src="https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+</p>
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *www.linkedin.com/in/thivankachiranjeeva*
-- 📧 Email: *chiranjeeva8@gmail.com*
+- 💼 LinkedIn: www.linkedin.com/in/thivankachiranjeeva
+- 📧 Email: chiranjeeva8@gmail.com
 ---
 
 ⭐ *Clean schematics, solid layouts, and real-world engineering.*
